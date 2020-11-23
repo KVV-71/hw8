@@ -1,0 +1,5 @@
+C:\Users\no\Documents\GitHub\hw8\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\no\Documents\GitHub\hw8\ConsoleApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\no\Documents\GitHub\hw8\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\no\Documents\GitHub\hw8\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\no\Documents\GitHub\hw8\ConsoleApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
